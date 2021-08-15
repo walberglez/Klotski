@@ -1,0 +1,11 @@
+Solomon
+7 9
+ .
+..
+#--####
+#  aab#
+# cdfb#
+#hcefg#
+#hijk*#
+#hll**#
+#######
